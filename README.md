@@ -1,4 +1,5 @@
 Manage urls of Google Chrome tabs.
+Only for Mac.
 
 # Setup
 I reccomend to use virtualenv.
